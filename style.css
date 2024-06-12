@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#main{
+    margin-top: 100px;
+    display: flex;
+    justify-content:space-around;
+}
+.btn{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 25px;
+}
+#res{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+#con{
+    margin-top: 100px;
+}
